@@ -1,4 +1,4 @@
-### Hi there 👋
+### Project Path: 🔭🌱👋👯🤔
 
 <!--
 **Forkan01/Forkan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Project Path:
 1. Precision Farming Robot: https://github.com/Neaz145126/Team-4
 2. Smart-Home Systems:      https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL
 3. Water assist pro:        https://github.com/Shihab-007/Water-Assist-Pro-AVR-ATMEGA128A
