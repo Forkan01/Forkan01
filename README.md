@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 4. Water assist pro:        https://github.com/Shihab-007/Water-Assist-Pro-AVR-ATMEGA128A
 5. Rescue robot:            https://github.com/MdLimonapu/RescueMe
 6. Hash Waste App:          https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6
-7. Magic Mushroom Plant Care
+7. Magic Mushroom Plant Care (Rep. is not public. documents can be shared if requested)
+8. Drone Precision Farming (an ongoing project in Autonomous-B)
