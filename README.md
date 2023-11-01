@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1. Precision Farming Robot: https://github.com/Neaz145126/Team-4
-2. Smart-Home Systems:      https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL
-3. Water assist pro:        https://github.com/Shihab-007/Water-Assist-Pro-AVR-ATMEGA128A
-4. Rescue robot:            https://github.com/MdLimonapu/RescueMe
-5. Hash Waste App:          https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6
-6. Magic Mushroom Plant Care
+1. Snake-Game-using-Deep-Learning 
+2. Precision Farming Robot: https://github.com/Neaz145126/Team-4
+3. Smart-Home Systems:      https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL
+4. Water assist pro:        https://github.com/Shihab-007/Water-Assist-Pro-AVR-ATMEGA128A
+5. Rescue robot:            https://github.com/MdLimonapu/RescueMe
+6. Hash Waste App:          https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6
+7. Magic Mushroom Plant Care
