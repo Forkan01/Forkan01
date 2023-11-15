@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-1. Snake-Game-using-Deep-Learning: https://github.com/Forkan01/Snake-Game-using-Deep-Learning
+1. Automatic Game Playing with Deep Learning: https://github.com/Forkan01/Automatic-Game-Playing-with-DL--Autonomous-Sys.-B
 2. Precision Farming Robot: https://github.com/Neaz145126/Team-4
 3. Smart-Home Systems:      https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL
 4. Water assist pro:        https://github.com/Shihab-007/Water-Assist-Pro-AVR-ATMEGA128A
