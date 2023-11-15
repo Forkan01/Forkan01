@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 5. Rescue robot:            https://github.com/MdLimonapu/RescueMe
 6. Hash Waste App:          https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6
 7. Magic Mushroom Plant Care (Rep. is not public. documents can be shared if requested)
-8. Drone Farming - Plant weed detection with Deep Learning (ongoing)
+8. Drone Farming - Plant weed detection with Deep Learning (ongoing): https://github.com/Forkan01/Autonomous-Systems-B-Lab_Group-D
