@@ -1,4 +1,5 @@
 <h1>Hi, I'm Forkan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Electronics developer</a>, <a href="https://www.youtube.com/c/joshmadakor">IT specialist</a></h1>
+
 <h2>👨‍💻 AI Projects:</h2>
 
 - <b>Automatic Game Playing with Deep Learning</b>
@@ -23,12 +24,17 @@
 
 - <b>Rescue robot</b>
   - [Rescue robot](https://github.com/MdLimonapu/RescueMe)
-
-- <b>Hash Waste App</b>
-  - [Hash Waste App](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
  
 - <b>Magic Mushroom Plant Care</b>
   - Rep. is not public
+ 
+<h2>👨‍💻 Embedded Projects:</h2>
+
+- <b>Hash Waste App</b>
+  - [Hash Waste App](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
+
+- <b>Studly App</b>
+  - Study management app
 
 <h2>📺 Popular YouTube Videos</h2>
 
