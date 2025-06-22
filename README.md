@@ -1,6 +1,6 @@
 <h1>Hi, I'm Forkan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Electronics developer</a>, <a href="https://www.youtube.com/c/joshmadakor">IT specialist</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 My Projects:</h2>
 
 - <b>Automatic Game Playing with Deep Learning</b>
   - [Snake Game with Deep Learning](https://github.com/Forkan01/Automatic-Game-Playing-with-DL--Autonomous-Sys.-B
