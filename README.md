@@ -1,9 +1,10 @@
-<h1>Hi, I'm Forkan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Electronics developer</a>, <a href="https://www.youtube.com/c/joshmadakor">IT</a></h1>
+<h1>Hi, I'm Forkan! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Electronics developer</a>, <a href="https://www.youtube.com/c/joshmadakor">IT specialist</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Automatic Game Playing with Deep Learning</b>
+  - [Praciting DS & Algos in Python](https://github.com/Forkan01/Automatic-Game-Playing-with-DL--Autonomous-Sys.-B
+)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
