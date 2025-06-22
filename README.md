@@ -9,7 +9,7 @@
   - [Precision Farming Robot](https://github.com/Neaz145126/Team-4)
 
 - <b>Smart Home System</b>
-  - [Smart doorbell](https://github.com/Neaz145126/Team-4)
+  - [Smart doorbell](https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL)
 
  
 - <b>Drone Farming - Plant weed detection with Deep Learning</b>
