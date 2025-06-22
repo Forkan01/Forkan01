@@ -3,7 +3,8 @@
 - <b>Automatic Game Playing with Deep Learning</b>
   - [Snake Game with Deep Learning](https://github.com/Forkan01/Automatic-Game-Playing-with-DL--Autonomous-Sys.-B
 )
-
+- <b>Drone Farming - Plant weed detection with Deep Learning</b>
+  - [Drone Farming - Plant weed detection with Deep Learning](https://github.com/Forkan01/Autonomous-Systems-B-Lab_Group-D)
 <h2>👨‍💻 Embedded Projects:</h2>
 
 - <b>Precision Farming Robot</b>
