@@ -28,17 +28,18 @@
 - <b>Magic Mushroom Plant Care</b>
   - Rep. is not public
  
-<h2>👨‍💻 Embedded Projects:</h2>
+<h2>👨‍💻 Software Development:</h2>
 
 - <b>Hash Waste App</b>
   - [Hash Waste App](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
 
 - <b>Studly App</b>
   - Study management app
+ 
+<h2>👨‍💻 Game Development:</h2>
 
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>Dragon Slayer- GODOT</b>
+  - A 2d game developed with Godot game engine
 
 <h2> 🤳 Connect with me:</h2>
 
