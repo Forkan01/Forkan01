@@ -7,25 +7,27 @@
 )
 - <b>Precision Farming Robot</b>
   - [Precision Farming Robot](https://github.com/Neaz145126/Team-4) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Smart-Home Systems</b>
+  - [Smart Doorbell]([https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL)
+ 
+- <b>Drone Farming - Plant weed detection with Deep Learning</b>
+  - [Drone Farming - Plant weed detection with Deep Learning](https://github.com/Forkan01/Autonomous-Systems-B-Lab_Group-D)
+
+- <b>Water assist pro</b>
+  - [Water assist pro](https://github.com/Shihab-007/Water-Assist-Pro-AVR-ATMEGA128A)
+
+- <b>Rescue robot</b>
+  - [Rescue robot](https://github.com/MdLimonapu/RescueMe)
+
+- <b>Hash Waste App</b>
+  - [Hash Waste App](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
+ 
+- <b>Magic Mushroom Plant Care</b>
+  - Rep. is not public
 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -34,7 +36,7 @@
 [linkedin]: https://www.linkedin.com/in/forkan02/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+s a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
