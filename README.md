@@ -6,9 +6,9 @@
   - [Snake Game with Deep Learning](https://github.com/Forkan01/Automatic-Game-Playing-with-DL--Autonomous-Sys.-B
 )
 - <b>Precision Farming Robot</b>
-  - [Precision Farming Robot](https://github.com/Neaz145126/Team-4) <b><i>(Potentially NSFW)</b></i>
+  - [Precision Farming Robot](https://github.com/Neaz145126/Team-4)
 - <b>Smart-Home Systems</b>
-  - [Smart Doorbell]([https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL)
+  - [Smart Doorbell](https://github.com/joshmadakor1/Sentinel-Lab](https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL)
  
 - <b>Drone Farming - Plant weed detection with Deep Learning</b>
   - [Drone Farming - Plant weed detection with Deep Learning](https://github.com/Forkan01/Autonomous-Systems-B-Lab_Group-D)
