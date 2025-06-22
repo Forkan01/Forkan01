@@ -46,6 +46,9 @@
 
 - <b>Unity Game Development</b>
   - [Certification](https://acrobat.adobe.com/link/review?uri=urn%3Aaaid%3Ascds%3AUS%3A4b68af34-0865-326b-aa5e-2dff4059e2ab)
+ 
+- <b>Python Pygame Development</b>
+  - Developed more than 100 Pygames (Snake, Brick Breaker, TikTakToe, Connect Four, Pong, Space Shooter, etc.)
 
 <h2> 🤳 Connect with me:</h2>
 
