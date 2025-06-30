@@ -30,6 +30,9 @@
  
 <h2>👨‍💻 Software Development:</h2>
 
+- <b>Note Taking App with React Native</b>
+  - [Note Taking App with React Native](https://github.com/MdLimonapu/RescueMe)
+
 - <b>Hash Waste App</b>
   - [Hash Waste App](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
 
@@ -49,6 +52,9 @@
  
 - <b>Python Pygame Development</b>
   - Developed more than 100 Pygames (Snake, Brick Breaker, TikTakToe, Connect Four, Pong, Space Shooter, etc.)
+ 
+- <b>Snake Game with C</b>
+  - [Snake Game with C](https://github.com/Forkan01/SnakeGame-with-C_CS2)
 
 <h2> 🤳 Connect with me:</h2>
 
