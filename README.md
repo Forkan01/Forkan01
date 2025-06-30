@@ -31,7 +31,7 @@
 <h2>👨‍💻 Software Development:</h2>
 
 - <b>Note Taking App with React Native</b>
-  - [React Native app with Superbase authentication repo](https://github.com/MdLimonapu/RescueMe)
+  - [React Native app with Superbase authentication repo](https://github.com/Forkan01/Note-Taking-App-with-React-Native)
 
 - <b>Hash Waste App</b>
   - [Waste management solution app prototype](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
