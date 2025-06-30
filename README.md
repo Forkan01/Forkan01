@@ -3,27 +3,27 @@
 <h2>🤖 AI Projects:</h2>
 
 - <b>Automatic Game Playing with Deep Learning</b>
-  - [Snake Game with Deep Learning](https://github.com/Forkan01/Automatic-Game-Playing-with-DL--Autonomous-Sys.-B)
+  - [Snake game with Deep Reinforcement Learning repo](https://github.com/Forkan01/Automatic-Game-Playing-with-DL--Autonomous-Sys.-B)
 
 - <b>Drone Farming - Plant weed detection with Deep Learning</b>
-  - [Drone Farming - Plant weed detection with Deep Learning](https://github.com/Forkan01/Autonomous-Systems-B-Lab_Group-D)
+  - [Plant weed detection with deep learning repo](https://github.com/Forkan01/Autonomous-Systems-B-Lab_Group-D)
 
 <h2>🦾 Embedded Projects:</h2>
 
 - <b>Precision Farming Robot</b>
-  - [Precision Farming Robot](https://github.com/Neaz145126/Team-4)
+  - [Precision Farming Robot repo](https://github.com/Neaz145126/Team-4)
  
-- <b>Drone Farming - Plant weed detection with Deep Learning</b>
-  - [Drone Farming - Plant weed detection with Deep Learning](https://github.com/Forkan01/Autonomous-Systems-B-Lab_Group-D)
+- <b>Drone Farming System</b>
+  - [Drone Farming System repo](https://github.com/Forkan01/Autonomous-Systems-B-Lab_Group-D)
 
 - <b>Smart Home System</b>
-  - [Smart doorbell](https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL)
+  - [Smart doorbell system repo](https://github.com/Sahat-fahim/Micro-controller-Lab-HSHL)
 
-- <b>Water assist pro</b>
-  - [Water assist pro](https://github.com/Shihab-007/Water-Assist-Pro-AVR-ATMEGA128A)
+- <b>Water assist pro- Light & Water Saving System</b>
+  - [Water assist pro repo](https://github.com/Shihab-007/Water-Assist-Pro-AVR-ATMEGA128A)
 
-- <b>Rescue robot</b>
-  - [Rescue robot](https://github.com/MdLimonapu/RescueMe)
+- <b>Rescue Robot</b>
+  - [Rescue robot repo](https://github.com/MdLimonapu/RescueMe)
  
 - <b>Magic Mushroom Plant Care</b>
   - Rep. is not public
@@ -31,10 +31,10 @@
 <h2>👨‍💻 Software Development:</h2>
 
 - <b>Note Taking App with React Native</b>
-  - [Note Taking App with React Native](https://github.com/MdLimonapu/RescueMe)
+  - [React Native app with Superbase authentication repo](https://github.com/MdLimonapu/RescueMe)
 
 - <b>Hash Waste App</b>
-  - [Hash Waste App](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
+  - [Waste management solution app prototype](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
 
 - <b>Studly App</b>
   - Study management app
@@ -42,7 +42,7 @@
 <h2>🎲 Game Development:</h2>
 
 - <b>Dragon Slayer- GODOT</b>
-  - [Dragon Slayer- GODOT](https://github.com/Forkan01/Dragon-Slayer-GODOT)
+  - [Dragon Slayer- 2D GODOT Game](https://github.com/Forkan01/Dragon-Slayer-GODOT)
 
 - <b>Car Race- Unity</b>
   - Unity 3d game development
@@ -54,7 +54,7 @@
   - Developed more than 100 Pygames (Snake, Brick Breaker, TikTakToe, Connect Four, Pong, Space Shooter, etc.)
  
 - <b>Snake Game with C</b>
-  - [Snake Game with C](https://github.com/Forkan01/SnakeGame-with-C_CS2)
+  - [C programming for snake game development](https://github.com/Forkan01/SnakeGame-with-C_CS2)
 
 <h2> 🤳 Connect with me:</h2>
 
