@@ -37,7 +37,13 @@
   - [Waste management solution app prototype](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
 
 - <b>Studly App</b>
-  - Study management app
+  - [Study Management AI App](https://studly-everything-student-needs.lovable.app/)
+
+- <b>Brain Boost App</b>
+  - [AI Puzzle App](https://brainboost.lovable.app)
+
+- <b>Solo Leveling App</b>
+  - [AI Puzzle App](https://quest-for-life-ai.lovable.app/)
  
 <h2>🎲 Game Development:</h2>
 
