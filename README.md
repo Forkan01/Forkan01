@@ -43,7 +43,7 @@
   - [AI Puzzle App](https://brainboost.lovable.app)
 
 - <b>Solo Leveling App</b>
-  - [AI Puzzle App](https://quest-for-life-ai.lovable.app/)
+  - [AI Daily Goal & Challenge App](https://quest-for-life-ai.lovable.app/)
  
 <h2>🎲 Game Development:</h2>
 
