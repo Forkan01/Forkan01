@@ -35,6 +35,9 @@
  
 - <b>Todo Android App (Kotlin)</b>
   - [App repo](https://github.com/Forkan01/Todo-App-Android-Kotlin)
+ 
+- <b>Todo Flutter</b>
+  - [App repo](https://github.com/Forkan01/Todo_Flutter)
 
 - <b>Hash Waste App</b>
   - [Waste management solution app prototype](https://www.figma.com/proto/bT3gbhqR7tq4VoksDBTshy?type=design&node-id=0-1&mode=design&t=2V5mn2LQvTdTZl3x-6)
